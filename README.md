@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Izzat</h1> 
 <h3 align="center">A passionate frontend developer from Malaysia</h3> 
- (img align="right" alt="Coding" width="400"  src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.codedex.io%2Fimages%2Fcodedex-bot-logo.gif&tbnid=VBLcfx1vPzWrNM&vet=10CJ4BEDMopAFqFwoTCODlwpfJy4MDFQAAAAAdAAAAABAC..i&imgrefurl=https%3A%2F%2Fwww.codedex.io%2F&docid=Vmmg9B-pPMnU_M&w=500&h=500&itg=1&q=animated%20coding&client=opera&ved=0CJ4BEDMopAFqFwoTCODlwpfJy4MDFQAAAAAdAAAAABAC)")
+ (img align="right" alt="Coding" width="400"  src="https%3A%2F%2Fwww.codedex.io%2Fimages%2Fcodedex-bot-logo.gif&tbnid=VBLcfx1vPzWrNM&vet=10CJ4BEDMopAFqFwoTCODlwpfJy4MDFQAAAAAdAAAAABAC..i&imgrefurl=https%3A%2F%2Fwww.codedex.io%2F&docid=Vmmg9B-pPMnU_M&w=500&h=500&itg=1&q=animated%20coding&client=opera&ved=0CJ4BEDMopAFqFwoTCODlwpfJy4MDFQAAAAAdAAAAABAC)")
  
 - 🔭 I’m currently pursuing my degree as Bachelor of Computing(Software Engineering at Universiti Teknologi Malaysia (UTM) 
  
