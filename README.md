@@ -1,6 +1,7 @@
 ............................................................................................
   ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvClUOr4VYKsb2tUAMWOBe-r_0uJWX3agtNw&usqp=CAU)....................................................................................
 
+
   # Hi there, I'm Izzat Fakhrullah - Code Inertia!!! 👋
 <h3 align="center">A passionate frontend developer from Malaysia</h3> 
 
@@ -13,7 +14,10 @@
  
 - 🔭 I’m currently pursuing my degree as Bachelor of Computing(Software Engineering at Universiti Teknologi Malaysia (UTM) 
  
-- 📫 How to reach me izzatijat2004@gmail.com 
+- 📫 How to reach me izzatijat2004@gmail.com
+
+[![trophy](https://github-profile-trophy.vercel.app/IZZATFAKHRULLAHryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
  
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
