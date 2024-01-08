@@ -1,10 +1,16 @@
 ............................................................................................
   ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvClUOr4VYKsb2tUAMWOBe-r_0uJWX3agtNw&usqp=CAU)....................................................................................
 
-
-
-<h1 align="center">Hi 👋, I'm Izzat</h1> 
+  # Hi there, I'm Izzat Fakhrullah - Code Inertia!!! 👋
 <h3 align="center">A passionate frontend developer from Malaysia</h3> 
+
+
+[![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://inertiaa.tech/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/saurabh-pandey-161348200](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit))
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inertiaa)
+[![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/reddevill)
+[![YouTube](https://img.shields.io/badge/code_inertia-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA)
+
 
 
 
