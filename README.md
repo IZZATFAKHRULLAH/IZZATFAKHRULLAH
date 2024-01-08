@@ -17,9 +17,8 @@
 - 📫 How to reach me izzatijat2004@gmail.com
 
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/IZZATFAKHRULLAHryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+https://github-profile-trophy.vercel.app/IZZATFAKHRULLAHryo-ma&title=Stars,Followers
+https://github-profile-trophy.vercel.app/IZZATFAKHRULAHryo-ma&theme=darkhub
 
 
  
