@@ -16,7 +16,11 @@
  
 - 📫 How to reach me izzatijat2004@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/IZZATFAKHRULLAHryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/IZZATFAKHRULLAHryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 
  
 <h3 align="left">Connect with me:</h3> 
