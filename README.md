@@ -1,8 +1,8 @@
-............................................................................................
-  ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvClUOr4VYKsb2tUAMWOBe-r_0uJWX3agtNw&usqp=CAU)....................................................................................
 
+ <img src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzgtMDkta255OWZoM2IuanBn.jpg" width="1050" height="200"/>
+ 
 
-  # Hi there, I'm Izzat Fakhrullah - Code Inertia!!! 👋
+ <h3 align="center"> #Hi there, I'm Izzat Fakhrullah - Code Inertia!!! 👋</h3> 
 <h3 align="center">A passionate frontend developer from Malaysia</h3> 
 
 
