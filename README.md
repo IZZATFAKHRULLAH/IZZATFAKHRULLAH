@@ -1,7 +1,7 @@
 
 
 
-[![MasterHead](https://img.etimg.com/thumb/width-1000,height-400,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)](https://IZZATFAKHRULLAH.io)
+[![MasterHead](https://img.etimg.com/thumb/width-900,height-300,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)](https://IZZATFAKHRULLAH.io)
 
  <h3 align="center"> #Hi there, I'm Izzat Fakhrullah - Code Inertia!!! 👋</h3> 
 <h3 align="center">A passionate frontend developer from Malaysia</h3> 
