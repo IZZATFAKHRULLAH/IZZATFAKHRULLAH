@@ -18,8 +18,7 @@
 - 📫 How to reach me izzatijat2004@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZZATFAKHRULLAH&show_icons=true&bg_color=00000000)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZZATFAKHRULLAH&show_icons=true&bg_color=0A0014&title_color=00FF75&icon_color=00FF75&text_color=DCFF05)
 
  
 <h3 align="left">Connect with me:</h3> 
@@ -31,5 +30,5 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZZATFAKHRULLAH&layout=donut)](https://github.com/IZZATFAKHRULLAH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZZATFAKHRULLAH&layout=donut&bg_color=0A0014&text_color=EBFF00&title_color=00FF75)](https://github.com/IZZATFAKHRULLAH/github-readme-stats)
 
