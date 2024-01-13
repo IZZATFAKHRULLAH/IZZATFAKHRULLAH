@@ -18,8 +18,7 @@
 - 📫 How to reach me izzatijat2004@gmail.com
 
 
-https://github-profile-trophy.vercel.app/IZZATFAKHRULLAHryo-ma&title=Stars,Followers
-https://github-profile-trophy.vercel.app/IZZATFAKHRULAHryo-ma&theme=darkhub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZZATFAKHRULLAH&show_icons=true&bg_color=00000000)
 
 
  
@@ -31,4 +30,6 @@ https://github-profile-trophy.vercel.app/IZZATFAKHRULAHryo-ma&theme=darkhub
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZZATFAKHRULLAH&layout=donut)](https://github.com/IZZATFAKHRULLAH/github-readme-stats)
 
