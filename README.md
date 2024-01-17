@@ -18,6 +18,7 @@
  
 - 📫 How to reach me izzatijat2004@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izzatfakhrullah&label=Profile%20views&color=0e75b6&style=flat" alt="izzatfakhrullah" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZZATFAKHRULLAH&show_icons=true&bg_color=0A0014&title_color=00FF75&icon_color=00FF75&text_color=DCFF05)
 
