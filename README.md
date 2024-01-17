@@ -20,17 +20,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzatfakhrullah&label=Profile%20views&color=0e75b6&style=flat" alt="izzatfakhrullah" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZZATFAKHRULLAH&show_icons=true&bg_color=0A0014&title_color=00FF75&icon_color=00FF75&text_color=DCFF05)
 
+# 📊 GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZZATFAKHRULLAH&show_icons=true&bg_color=0A0014&title_color=00FF75&icon_color=00FF75&text_color=DCFF05)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IZZATFAKHRULLAH&theme=merko&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZZATFAKHRULLAH&layout=donut&bg_color=0A0014&text_color=EBFF00&title_color=00FF75)](https://github.com/IZZATFAKHRULLAH/github-readme-stats)
  
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
 <a href="https://instagram.com/fluffy_ijat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fluffy_ijat" height="30" width="40" /></a> 
 </p> 
+
+
+
  
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZZATFAKHRULLAH&layout=donut&bg_color=0A0014&text_color=EBFF00&title_color=00FF75)](https://github.com/IZZATFAKHRULLAH/github-readme-stats)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IZZATFAKHRULLAH&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
