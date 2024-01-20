@@ -23,7 +23,7 @@
 
 #### :woman_technologist: About Me 
 - 🔭 I’m currently pursuing my degree as Bachelor of Computing(Software Engineering at Universiti Teknologi Malaysia (UTM) 
- 
+
 - 📫 How to reach me izzatijat2004@gmail.com
 
 <h2 align="left">Connect with me:</h2> 
