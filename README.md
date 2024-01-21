@@ -47,7 +47,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZZATFAKHRULLAH&show_icons=true&bg_color=0A0014&title_color=00FF75&icon_color=00FF75&text_color=DCFF05)
 <br/>![](https://github-readme-streak-stats.herokuapp.com/?user=IZZATFAKHRULLAH&theme=merko&hide_border=false)<br/>
