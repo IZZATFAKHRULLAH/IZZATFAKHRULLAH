@@ -26,7 +26,7 @@
 
 - 📫 How to reach me izzatijat2004@gmail.com
 
-<h2 align="left">Connect with me:</h2> 
+<h4 align="left">📱 Connect with me: </h4> 
 <p align="left"> 
 <a href="https://instagram.com/fluffy_ijat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fluffy_ijat" height="30" width="40" /></a> 
 </p> 
